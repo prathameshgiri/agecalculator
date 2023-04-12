@@ -3,22 +3,23 @@ body {
     background-color: #000000;
     font-size: 15px;
     line-height: 1.5;
-    padding: 0;
-    margin: 0;
+    padding: 0%;
+    margin: 0%;
 }
 * {
     box-sizing: border-box;
 }
 .container {
-    width: 300px;
+    width: 390px;
     height: auto;
    
     background-color: #eee;
     border-radius: 25px;
 }
 .base {
-    width: 95%;
-    margin: 10px;
+    width: 100%;
+    margin: 0%;
+    padding:0%;
     overflow: hidden;
     display: block;
     float: none;
