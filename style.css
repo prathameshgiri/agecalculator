@@ -10,15 +10,15 @@ body {
     box-sizing: border-box;
 }
 .container {
-    width: 420px;
+    width: 400px;
     height: auto;
    
     background-color: #eee;
     border-radius: 25px;
 }
 .base {
-    width: 100%;
-    margin: 0;
+    width: 95%;
+    margin: 10px;
     overflow: hidden;
     display: block;
     float: none;
