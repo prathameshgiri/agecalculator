@@ -98,3 +98,13 @@ input[type="button"]:hover {
     word-spacing: 2.7px;
     color: navy;
 }
+.copyright {
+    padding: 10px;
+    background: var(--main-color);
+    text-align: center;
+    color: #000000;
+  }
+ 
+  .copyright a {
+    color: #22cf91;
+  }
