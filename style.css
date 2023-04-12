@@ -3,8 +3,8 @@ body {
     background-color: #000000;
     font-size: 15px;
     line-height: 1.5;
-    padding: 7px;
-    margin: 7px;
+    padding: 0;
+    margin: 0;
 }
 * {
     box-sizing: border-box;
